@@ -8,3 +8,5 @@
 - [ ] Google Containter Engine.
 - [ ] Google Compute Engine e Networking.
 - [ ] Big Data e Machine Learning.
+
+> Plano de estudos retirado de um [artigo do Medium](https://lgertel.medium.com/certifica%C3%A7%C3%A3o-google-cloud-architect-plano-de-estudos-95d9d53ad1c0)
